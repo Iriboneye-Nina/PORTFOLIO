@@ -1,0 +1,36 @@
+h2{
+    font-style: italic;color: blue 50px;
+    background-position-y: center 20px;
+    background-color: brown 70px;
+
+}
+table{
+    background-color: cornsilk;
+    margin: 30px;/*ca marije*/
+    padding: 70px;
+    color: brown;
+    font-size: 12px;
+    border-radius: 70px;
+    box-shadow: 70px;
+    text-align: center;
+    box-sizing: border-box;
+    right: aligned;
+    text-align: center;
+    background-position: 50px;
+    background-position-y: center 20px;
+    
+}
+h1{
+    text-align: center;
+    box-sizing: border-box;
+}
+body{
+    font-size: large;
+    background-color: honeydew;
+    color: aqua;
+    text-align: center;
+}
+container{
+    display: flex;
+
+}
